@@ -23,19 +23,42 @@
 
 
 ## 2. Sampling
-
+<br>
 
 ![alt 2번이미지](/image/img2.png)
 
 - Because Our Digital system is discrete, I convert Infinite impulse signal(IIR) to Finite Impulse signal(FIR).
 
 ## 3. Fast Fourier Transform (FFT)
+<br>
 
-
-![alt 3번이미지](/image/img3.png)
+![alt 3번이미지](/image/img3.PNG)
 
 - I learned from the graph that the results of dft and fft are the same, and that in large projects, fft algorithms should be used for the efficiency of computation.
 
-## Notification
 
-- Even though I tried to register the app on the Play Store, I couldn't because of the copyright of National Team Photo.
+## 4. Digital Filter
+<br>
+
+![alt 4번이미지](/image/img4.PNG)
+
+- I implemented digital filter on two kinds of functions.
+
+## 5. Filter Design
+<br>
+### Noise Reduction
+![alt 5번이미지](/image/img5.PNG)
+
+### Noise Reduction using Kaiser Window & Hamming filter
+![alt 6번이미지](/image/img6.PNG)
+
+### Speech Noise Reduction
+![alt 7번이미지](/image/img7.PNG)
+
+### Noise Reduction using Lowpass filter & Highpass filter
+![alt 8번이미지](/image/img8.PNG)
+
+
+- I implemented various kinds of filter and window function to reduce noise at simple sound and speech.
+- I also implemented echo sound using IIR & FIR on "Legends never die (by Alan walker)" Music.
+
