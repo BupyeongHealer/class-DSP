@@ -50,14 +50,11 @@
 ## 5. Filter Design
 <br>
 
-### Noise Reduction
-
 ![alt 5번이미지](/image/img5.png)
 
 ### Noise Reduction using Kaiser Window & Hamming filter
 ![alt 6번이미지](/image/img6.png)
 
-### Speech Noise Reduction
 ![alt 7번이미지](/image/img7.png)
 
 ### Noise Reduction using Lowpass filter & Highpass filter
