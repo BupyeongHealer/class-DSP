@@ -16,14 +16,25 @@
 
 ## 1. Linearlity Test
 <br>
+
 ![alt 1번이미지](/image/img1.png)
 
 - As I plot the function, I can classify whether linear or not
 
 
 ## 2. Sampling
+
+
 ![alt 2번이미지](/image/img2.png)
-![alt 3번이미지](/image/img5.png)
+
+- Because Our Digital system is discrete, I convert Infinite impulse signal(IIR) to Finite Impulse signal(FIR).
+
+## 3. Fast Fourier Transform (FFT)
+
+
+![alt 3번이미지](/image/img3.png)
+
+- I learned from the graph that the results of dft and fft are the same, and that in large projects, fft algorithms should be used for the efficiency of computation.
 
 ## Notification
 
