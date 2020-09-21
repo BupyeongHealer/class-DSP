@@ -13,6 +13,9 @@
 3. Fast Fourier Transform (FFT)
 4. Digital Filter
 5. Filter Design
+  1. Noise Reduction
+  2. Speech Reduction
+  3. Making Echo using IIR & FIR
 
 ## 1. Linearlity Test
 <br>
@@ -46,17 +49,19 @@
 
 ## 5. Filter Design
 <br>
+
 ### Noise Reduction
-![alt 5번이미지](/image/img5.PNG)
+
+![alt 5번이미지](/image/img5.png)
 
 ### Noise Reduction using Kaiser Window & Hamming filter
-![alt 6번이미지](/image/img6.PNG)
+![alt 6번이미지](/image/img6.png)
 
 ### Speech Noise Reduction
-![alt 7번이미지](/image/img7.PNG)
+![alt 7번이미지](/image/img7.png)
 
 ### Noise Reduction using Lowpass filter & Highpass filter
-![alt 8번이미지](/image/img8.PNG)
+![alt 8번이미지](/image/img8.png)
 
 
 - I implemented various kinds of filter and window function to reduce noise at simple sound and speech.
