@@ -13,9 +13,9 @@
 3. Fast Fourier Transform (FFT)
 4. Digital Filter
 5. Filter Design
-  1. Noise Reduction
-  2. Speech Reduction
-  3. Making Echo using IIR & FIR
+    1. Noise Reduction
+    2. Speech Reduction
+    3. Making Echo using IIR & FIR
 
 ## 1. Linearlity Test
 <br>
