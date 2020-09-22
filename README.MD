@@ -12,10 +12,8 @@
 [2. Sampling](#2)  
 [3. Fast Fourier Transform (FFT)](#3)  
 [4. Digital Filter](#4)  
-[5. Filter Design](#5)  
-[6. Noise Reduction](#6)  
-[7. Speech Reduction](#7)  
-[8. Making Echo using IIR & FIR](#8)  
+[5. Filter Design - Noise Reduction, Speech Noise Reduction, Make Echo](#5)  
+
 
 ## 1. Linearlity Test <a id="1"></a>
 <br>
@@ -53,11 +51,11 @@
 ![alt 5번이미지](/image/img5.png)
 
 ### Noise Reduction using Kaiser Window & Hamming filter
-![alt 6번이미지](/image/img6.png) <a id="6"></a>
+![alt 6번이미지](/image/img6.png)
 
-![alt 7번이미지](/image/img7.png) <a id="7"></a>
+![alt 7번이미지](/image/img7.png)
 
-### Noise Reduction using Lowpass filter & Highpass filter <a id="8"></a>
+### Noise Reduction using Lowpass filter & Highpass filter
 ![alt 8번이미지](/image/img8.png)
 
 
