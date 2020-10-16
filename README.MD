@@ -1,6 +1,6 @@
 # Digital Signal Processing Class
 
--  I was implementing matlab code for various type of filters or functions.
+-  Implementing matlab code for various type of filters or functions.
 
 ## Development Environment
 - IDE : Matlab
